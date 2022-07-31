@@ -45,7 +45,7 @@ menu_1.add_cascade(label="Spreadsheets", menu=file_menu)
 file_menu.add_command(label='Open', command=open_file)
 
 #Adding information label
-inf_label = tk.Label(root, text='LoL')
+inf_label = tk.Label(root, text='File path and name')
 inf_label.pack(pady=30)
 
 root.mainloop()
