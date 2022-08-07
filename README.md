@@ -1,2 +1,2 @@
-# Concrete-analysis
-Analyzing the properties of concrete from "Concrete dataset"  from U
+# CSV-XLS file reader
+Allows you to view csv and XLS files using GUI based on Tkinter.
